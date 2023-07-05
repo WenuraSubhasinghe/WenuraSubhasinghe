@@ -2,6 +2,7 @@
   <img src="https://github.com/WenuraSubhasinghe/WenuraSubhasinghe/blob/main/Blue%20Minimal%20Lion%20Technology%20Free%20Logo%20(1).png?raw=true" alt="Logo" width="100%" height="50%" />
 </p>
 <h1 align="center">Hi 👋, I'm Wenura Subhasinghe</h1
+                                                 
 <h3 align="left">About me:</h3>
 
 - 🎓 Studies Bsc(hons) in Information Technology at [University of Moratuwa](https://uom.lk/)
