@@ -1,12 +1,11 @@
 <p align="center">
-  <img src="https://github.com/WenuraSubhasinghe/WenuraSubhasinghe/blob/main/Blue%20Minimal%20Lion%20Technology%20Free%20Logo%20(1).png?raw=true" alt="Logo" width="100%" height="100%" />
+  <img src="https://github.com/WenuraSubhasinghe/WenuraSubhasinghe/blob/main/Blue%20Minimal%20Lion%20Technology%20Free%20Logo%20(1).png?raw=true" alt="Logo" width="100%" height="80%" />
 </p>
-<h1 align="center">Hi 👋, I'm Wenura Subhasinghe</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
-## About Me :
+<h1 align="center">Hi 👋, I'm Wenura Subhasinghe</h1
+<h3 align="left">About me:</h3>
 
 - 🎓 Studies Bsc(hons) in Information Technology at [University of Moratuwa](https://uom.lk/)
-- 👨‍💻 Full Stack Web Developer
+- 👨‍💻 Full Stack Developer
 - 👨‍🎓 Tech Enthusiast
 - 🏡 Lives in **Kurunegala Sri Lanka**
 
@@ -16,6 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/wenura-subhasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wenura-subhasinghe" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21777961/wenura-subhasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="wenura-subhasinghe" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/wenu_subasinghe?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="wenu_subasinghe?hr_r=1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
