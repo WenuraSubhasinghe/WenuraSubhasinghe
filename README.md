@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://drive.google.com/file/d/1DR0Q5XG_mx8c2IKiNI-dFv0UPkOSjP5w/view?usp=sharing" alt="Logo" width="100%" height="100%" />
+  <img src="[https://drive.google.com/file/d/1DR0Q5XG_mx8c2IKiNI-dFv0UPkOSjP5w/view?usp=sharing](https://github.com/WenuraSubhasinghe/WenuraSubhasinghe/blob/main/Blue%20Minimal%20Lion%20Technology%20Free%20Logo%20(1).png)" alt="Logo" width="100%" height="100%" />
 </p>
 <h1 align="center">Hi 👋, I'm Wenura Subhasinghe</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/wenura-subhasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wenura-subhasinghe" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/wenura-subhasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="wenura-subhasinghe" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/21777961/wenura-subhasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="wenura-subhasinghe" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
