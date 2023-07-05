@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/WenuraSubhasinghe/WenuraSubhasinghe/blob/main/Blue%20Minimal%20Lion%20Technology%20Free%20Logo%20(1).png?raw=true" alt="Logo" width="100%" height="50%" />
+  <img src="https://raw.githubusercontent.com/WenuraSubhasinghe/WenuraSubhasinghe/main/my-logo.png" alt="Logo" width="100%" height="50%" />
 </p>
 <h1 align="center">Hi 👋, I'm Wenura Subhasinghe</h1
                                                  
