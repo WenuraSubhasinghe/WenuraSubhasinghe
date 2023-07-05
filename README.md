@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://drive.google.com/file/d/1DR0Q5XG_mx8c2IKiNI-dFv0UPkOSjP5w/view?usp=drive_link" alt="Logo" width="100%" height="100%" />
+  <img src="https://drive.google.com/file/d/1DR0Q5XG_mx8c2IKiNI-dFv0UPkOSjP5w/view?usp=sharing" alt="Logo" width="100%" height="100%" />
 </p>
 <h1 align="center">Hi 👋, I'm Wenura Subhasinghe</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
