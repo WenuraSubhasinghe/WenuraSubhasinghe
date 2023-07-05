@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm Wenura Subhasinghe</h1
                                                  
-<h3 align="left">About me:</h3>
+<h3 align="left"><b></b>About me:</h3>
 
 - 🎓 Studies Bsc(hons) in Information Technology at [University of Moratuwa](https://uom.lk/)
 - 👨‍💻 Full Stack Developer
