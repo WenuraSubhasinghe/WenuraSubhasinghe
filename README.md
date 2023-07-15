@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/WenuraSubhasinghe/WenuraSubhasinghe/main/my-logo.png" alt="Logo" width="800" height="350" />
+  <img src="https://raw.githubusercontent.com/WenuraSubhasinghe/WenuraSubhasinghe/main/background.png" alt="Logo" height="300" width="800" />
 </p>
 <h1 align="center">Hi 👋, I'm Wenura Subhasinghe</h1>
                                                  
